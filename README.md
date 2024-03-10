@@ -11,7 +11,6 @@ Aqui você ira encontrar uma calculadora onde eu utilizes lambdas, def e command
 Você precisa ter instaldo python 3 e tkinter
 
 ```
-Dar exemplos
 ```
 
 ### 🔧 Instalação
@@ -33,6 +32,8 @@ pip install tk
 from tkinter import * (importa tudo que tem sobre ele)
 from tkinter import tt
 ```
+## 📋  AGRADECIMENTOS
+https://www.youtube.com/watch?v=i24MxljM-Bw
 
 
 ## 🎁 Expressões de gratidão
